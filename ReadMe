@@ -1,0 +1,23 @@
+Naive Bayes Classification
+
+Naive Bayes Classification is a probabilistic Machine Learning algorithm that makes use of the Bayes Theorem for predicting categorical features. Bayes Theorem describes the probability of an event, based on prior knowledge of conditions that might be related to the event. The Bayes theorem has various applications in Machine Learning the most poplar being Text classification. Categorizing a mail as spam or important is one simple and very popular application of the Bayes classification.
+
+GENERATIVE AND DISCRIMINATIVE CLASSIFIERS: NAIVE BAYES AND LOGISTIC REGRESSION
+Naive Bayes Classification of Uncertain Data
+A Hands-on Introduction to Naive Bayes Classification In Python
+In this practise session, we will learn to code Naive Bayes Classifier. We will perform the following steps to build a simple classifier using the popular Iris dataset. You can find the dataset here.
+
+Step 1. Data Preprocessing 
+
+Importing the libraries.
+Importing dataset (Dataset Link https://archive.ics.uci.edu/ml/datasets/iris).
+Dealing with the categorical variable.
+Classifying dependent and independent variables.
+Splitting the data into a training set and test set.
+Feature scaling.
+Step 2. Naive Bayes Classification 
+
+Create a Naive Bayes classifier.
+Feed the training data to the classifier.
+Predicting the species for the test set.
+Using the confusion matrix to find accuracy.
